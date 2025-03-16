@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (validUser) {
                 alert("Login successful!");
                 localStorage.setItem("loggedInUser", username);
-                window.location.href = "../Game/game.html"; // Redirect after login
+                window.location.href = "Game/game.html"; // Redirect after login
             } else {
                 alert("Invalid credentials");
             }
