@@ -11,27 +11,7 @@ Check it out here: [Rock-Paper-Scissors on GitHub Pages](https://satya-prabhu.gi
 ---
 
 ## 📂 Project Structure
-Rock-Paper-Scissors/
-
-│── index.html # Login & Signup page
-
-│── script.js # Authentication logic
-
-│── styles.css # Login page styles
-
-│── images/ # Backgrounds & icons
-
-│
-
-│── Game/
-
-│ ├── game.html # Main game page
-
-│ ├── css/ # Game styles
-
-│ ├── js/ # Game logic
-
-│ └── images/ # Game assets
+<img width="341" height="316" alt="image" src="https://github.com/user-attachments/assets/25dcfe6b-d53a-40f9-bc18-d1450db72096" />
 
 
 ---
